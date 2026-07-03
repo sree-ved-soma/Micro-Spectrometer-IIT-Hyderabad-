@@ -1,5 +1,4 @@
 # Micro-Spectrometer-IIT-Hyderabad
-Project : Working Micro-Spectrometer Model 
 
 Led two sequential project teams across two semesters — first building a 40x magnification optical microscope in Sem 3, then leading a separate team to upgrade the system into a fully functional spectrometer in Sem 4. The final integrated system captures high-resolution specimen images and simultaneously analyses their spectral characteristics using an endoscope camera and Python-based data processing.
 
